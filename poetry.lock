@@ -1,0 +1,20 @@
+[[package]]
+name = "pywf"
+version = "0.0.8"
+description = "A C++ Workflow Wrapper for Python"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "d96e5515f19ec222f576166768aed24ff23b28ec6e21626dfd54d834b5f2039f"
+
+[metadata.files]
+pywf = [
+    {file = "pywf-0.0.8-cp36-cp36m-manylinux2014_x86_64.whl", hash = "sha256:fdffb4d85cbfbe70a313cdabdf2025e55034e0b94c46f0306906ee072d01afd5"},
+    {file = "pywf-0.0.8-cp37-cp37m-manylinux2014_x86_64.whl", hash = "sha256:7c1fa1416d9468e0dba637a7c9f1ed7692a75bdd6c05bf527718b6acb97da792"},
+    {file = "pywf-0.0.8-cp38-cp38-manylinux2014_x86_64.whl", hash = "sha256:f2a1019106760b93ca3edc9aea2d558fbe25cace9a89405dbd51d053411906a7"},
+    {file = "pywf-0.0.8-cp39-cp39-manylinux2014_x86_64.whl", hash = "sha256:794746da807201143dc603b0944cb87d807b17266a66a75323883d9ab7256931"},
+]
